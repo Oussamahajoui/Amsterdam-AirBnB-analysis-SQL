@@ -1,4 +1,4 @@
-
+-- Gathering list of the top 100 Airbnb listings in Amesterdam based on the total revenues generated within a year (365 days)
 SELECT id,
     listing_url,
     name,
