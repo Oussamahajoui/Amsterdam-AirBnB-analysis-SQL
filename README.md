@@ -2,14 +2,14 @@
  Analysis of Amsterdam AirBnb Listings 
 
 ## Problematic:
-We wanted to check potential revenues of an Airbnb listing in Amsterdam, and gather a list of potential customers/target for a business idea.
+I wanted to check potential revenues of an Airbnb listing in Amsterdam, and gather a list of potential customers/target for a business idea.
 The main goals:
 1. Gather list of the top 100 highest revenues in Amsterdam within a full year
 2. List of potential customers/target for a cleaning service business
 
 ## Data Source:
-We leveraged **[Inside Airbnb](http://insideairbnb.com/get-the-data/ 'Inside Airbnb')** to gather data on available listings of Amsterdam in Airbnb.
-We collected:
+I leveraged **[Inside Airbnb](http://insideairbnb.com/get-the-data/ 'Inside Airbnb')** to gather data on available listings of Amsterdam in Airbnb.
+I collected:
 1. Listings
 2. Calendar
 3. Reviews
